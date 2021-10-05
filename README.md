@@ -5,8 +5,8 @@ Script de % octava
 % Fecha: 20210927
 % Versión: 1
 % De uso: octava> cd / ruta /
-% 		: octava> Clasificacion_Numeros
-% 		: Requiere aplicación octave, usar su línea de comandos
+% 	: octava> Clasificacion_Numeros
+% 	: Requiere aplicación octave, usar su línea de comandos
 
 claro 
 c_números_Naturales =  ' N = {1, 2, 3, .... n} si n> 0 ' ;
