@@ -1,6 +1,6 @@
 # 👋 ¡Holaa! Soy ULISES  
 
-💻 **Desarrollador de Software | Apasionado por la tecnología | Constructor de soluciones.**  
+💻 **Desarrollador de Software | Apasionado por la tecnología **  
 
 ---
 
@@ -29,15 +29,14 @@
 
 ## 🎯 Un poco más de mí  
 - 🧩 Fan de resolver problemas complicados con soluciones simples.  
-- 🕹️ Gamer en mis ratos libres (porque hasta los devs necesitamos respawn).  
 - ☕ El café es mi framework principal.  
 
 ---
 
 ## 📬 Contáctame  
 <p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:uli05112001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ulises-isaias-mateos-b81383353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/UlisesIsaias"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
