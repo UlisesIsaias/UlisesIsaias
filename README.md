@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 ¡Holaa! Soy ULISES  
 
-<!--
-**UlisesIsaias/UlisesIsaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Software | Apasionado por la tecnología | Constructor de soluciones.**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+- 🛠️ Transformo ideas en código funcional, limpio y elegante.  
+- 🌱 Siempre aprendiendo nuevas tecnologías para mantenerme al tiro.  
+- 🤝 Me gusta colaborar en proyectos que tengan impacto real.  
+- ⚡ El bug no se elimina, se domestica 🐛🔥.  
+
+---
+
+## 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,python,mysql,git,github,docker" />
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UlisesIsaias&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesIsaias&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</p>  
+
+---
+
+## 🎯 Un poco más de mí  
+- 🧩 Fan de resolver problemas complicados con soluciones simples.  
+- 🕹️ Gamer en mis ratos libres (porque hasta los devs necesitamos respawn).  
+- ☕ El café es mi framework principal.  
+
+---
+
+## 📬 Contáctame  
+<p align="center">
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/UlisesIsaias"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+🔥 *“No es magia, es código… pero parece magia.”*  
