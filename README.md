@@ -1,6 +1,6 @@
 # 👋 ¡Holaa! Soy ULISES  
 
-💻 **Desarrollador de Software | Apasionado por la tecnología **  
+💻 Desarrollador de Software | Apasionado por la tecnología 
 
 ---
 
