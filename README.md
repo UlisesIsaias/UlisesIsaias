@@ -1,13 +1,13 @@
-# 👋 ¡Holaa! Soy ULISES  
+# 👋 ¡Qué onda! Soy ULISES  
 
-💻 Desarrollador de Software | Apasionado por la tecnología 
+💻 **Desarrollador de Software | Apasionado por la tecnología | Amante del buen café ☕**  
 
 ---
 
 ## 🚀 Sobre mí  
 - 🛠️ Transformo ideas en código funcional, limpio y elegante.  
 - 🌱 Siempre aprendiendo nuevas tecnologías para mantenerme al tiro.  
-- 🤝 Me gusta colaborar en proyectos que tengan impacto real.  
+- 🤝 Me gusta colaborar en proyectos que generen impacto real.  
 - ⚡ El bug no se elimina, se domestica 🐛🔥.  
 
 ---
@@ -30,6 +30,7 @@
 ## 🎯 Un poco más de mí  
 - 🧩 Fan de resolver problemas complicados con soluciones simples.  
 - ☕ El café es mi framework principal.  
+- 🎮 Gamer ocasional para recargar energías y creatividad.  
 
 ---
 
@@ -38,7 +39,7 @@
   <a href="mailto:uli05112001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ulises-isaias-mateos-b81383353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/UlisesIsaias"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</p>  
 
 ---
 
