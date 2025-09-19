@@ -1,6 +1,6 @@
 # 👋 ¡Qué onda! Soy ULISES  
 
-💻 **Desarrollador de Software | Apasionado por la tecnología | Amante del buen café ☕**  
+💻 **Desarrollador de Software | Apasionado por la tecnología 
 
 ---
 
