@@ -1,6 +1,6 @@
 # 👋 ¡Qué onda! Soy ULISES  
 
-💻 **Desarrollador de Software | Apasionado por la tecnología 
+💻 **Desarrollador de web | devOps | Apasionado por la tecnología 
 
 ---
 
