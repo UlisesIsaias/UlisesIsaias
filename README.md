@@ -42,9 +42,6 @@
 
 🔥 "No es magia, es código… pero parece magia."
 
-
-🐍 Mi serpiente comiéndose mis commits
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UlisesIsaias/UlisesIsaias/output/github-snake-dark.svg" />
