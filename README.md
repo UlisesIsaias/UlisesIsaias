@@ -30,17 +30,25 @@
 ## 🎯 Un poco más de mí  
 - 🧩 Fan de resolver problemas complicados con soluciones simples.  
 - ☕ El café es mi framework principal.  
-- 🎮 Gamer ocasional para recargar energías y creatividad.  
 
 ---
+📬 Contáctame
 
-## 📬 Contáctame  
 <p align="center">
   <a href="mailto:uli05112001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ulises-isaias-mateos-b81383353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/UlisesIsaias"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>  
 
----
+🔥 "No es magia, es código… pero parece magia."
 
-🔥 *“No es magia, es código… pero parece magia.”*  
+
+🐍 Mi serpiente comiéndose mis commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UlisesIsaias/UlisesIsaias/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UlisesIsaias/UlisesIsaias/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/UlisesIsaias/UlisesIsaias/output/github-snake.svg" />
+  </picture>
+</p>
